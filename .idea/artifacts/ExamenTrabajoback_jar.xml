@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExamenTrabajoback:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExamenTrabajoback_jar</output-path>
+    <root id="archive" name="ExamenTrabajoback.jar">
+      <element id="module-output" name="ExamenTrabajoback" />
+    </root>
+  </artifact>
+</component>
